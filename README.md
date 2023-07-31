@@ -1,1 +1,2 @@
 # Eleccionador-Inador
+_La Plataforma de Votaciones en Línea es un ambicioso proyecto que busca facilitar y modernizar el proceso de votación mediante el desarrollo de una página web intuitiva y segura. Esta plataforma está diseñada para satisfacer las necesidades de diversos tipos de elecciones y consultas, ya sean políticas, empresariales, comunitarias o académicas._
